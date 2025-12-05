@@ -1,0 +1,50 @@
+name: karri.fadel
+description: Adaptive
+version: 0.0.1
+author: 7ndqhtgw.8cybodrd@fgr2kibb.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: karrifadel
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 21:51:54'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 21:51:54'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T21:51:54.339297Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '222602318'
+  createdAt: '2025-12-05T21:51:54.339297Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
